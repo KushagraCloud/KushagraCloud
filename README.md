@@ -1,11 +1,5 @@
 ##<h1 align="center">Kushagra Saini</h1>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/KushagraCloud" width="150" />
-</p>
-
----
-
 ### 👨‍🎓 First-Year Engineering Student | Cloud Computing & Automation @ VIT Bhopal
 
 Aspiring **Devops Engineer** with a focus on system-level software, automation, and cloud infrastructure.  
