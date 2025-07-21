@@ -1,6 +1,6 @@
 ##<h1 align="center">Kushagra Saini</h1>
 
-### 👨‍🎓 First-Year Engineering Student | Cloud Computing & Automation @ VIT Bhopal
+### 👨‍🎓 First-Year Engineering Student | Cloud Computing & Automation @ Vellore Institute of Technology.
 
 Aspiring **Devops Engineer** with a focus on system-level software, automation, and cloud infrastructure.  
 Currently building my foundation in **Python, Linux**, and scripting tools to solve real-world problems.
